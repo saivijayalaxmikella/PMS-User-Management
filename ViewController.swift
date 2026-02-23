@@ -1,9 +1,4 @@
-//
-//  ViewController.swift
-//  PMS
-//
-//  Created by spsoft on 20/01/25.
-//
+
 import UIKit
 import MBProgressHUD
 
