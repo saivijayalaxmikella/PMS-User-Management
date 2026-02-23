@@ -1,9 +1,3 @@
-//
-//  CreateTemplatesViewController.swift
-//  PMS
-//
-//  Created by SPSOFT on 20/02/25.
-//
 
 import UIKit
 
