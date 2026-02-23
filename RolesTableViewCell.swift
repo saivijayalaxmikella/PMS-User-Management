@@ -1,9 +1,4 @@
-//
-//  RolesTableViewCell.swift
-//  PMS
-//
-//  Created by SPSOFT on 17/02/25.
-//
+
 import UIKit
 
 class RolesTableViewCell: UITableViewCell {
