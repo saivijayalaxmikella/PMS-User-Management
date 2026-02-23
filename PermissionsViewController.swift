@@ -1,9 +1,4 @@
-//
-//  PermissionsViewController.swift
-//  PMS
-//
-//  Created by SPSOFT on 12/02/25.
-//
+
 import UIKit
 
 class PermissionsViewController: UIViewController, UITableViewDelegate, UITableViewDataSource, UITextFieldDelegate {
