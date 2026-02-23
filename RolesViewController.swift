@@ -1,9 +1,4 @@
-//
-//  RolesViewController.swift
-//  PMS
-//
-//  Created by SPSOFT on 12/02/25.
-//
+
 import UIKit
 
 class RolesViewController: UIViewController, UITableViewDataSource, UITableViewDelegate, UITextFieldDelegate {
