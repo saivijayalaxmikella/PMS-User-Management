@@ -1,9 +1,4 @@
-//
-//  CreatePermissionMappingViewController.swift
-//  PMS
-//
-//  Created by SPSOFT on 18/02/25.
-//
+
 
 import UIKit
 
