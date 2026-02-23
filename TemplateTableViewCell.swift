@@ -1,9 +1,3 @@
-//
-//  TemplateTableViewCell.swift
-//  PMS
-//
-//  Created by SPSOFT on 21/07/25.
-//
 
 import UIKit
 
