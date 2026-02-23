@@ -1,9 +1,4 @@
-//
-//  PasswordLoginViewController.swift
-//  PMS
-//
-//  Created by SPSOFT on 21/01/25.
-//
+
 import UIKit
 import JWTDecode
 
