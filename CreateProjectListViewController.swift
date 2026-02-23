@@ -1,9 +1,3 @@
-//
-//  CreateProjectListViewController.swift
-//  PMS
-//
-//  Created by SPSOFT on 18/07/25.
-//
 
 import UIKit
 
