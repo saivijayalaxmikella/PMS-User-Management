@@ -1,9 +1,4 @@
-//
-//  ProjectRolesViewController.swift
-//  PMS
-//
-//  Created by SPSOFT on 13/02/25.
-//
+
 import UIKit
 
 class ProjectRolesViewController: UIViewController, UITableViewDelegate, UITableViewDataSource, UITextFieldDelegate {
