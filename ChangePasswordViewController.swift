@@ -1,9 +1,4 @@
-//
-//  ChangePasswordViewController.swift
-//  PMS
-//
-//  Created by SPSOFT on 22/01/25.
-//
+
 
 import UIKit
 
