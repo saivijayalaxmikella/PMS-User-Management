@@ -1,9 +1,3 @@
-//
-//  TeamTableViewCell.swift
-//  PMS
-//
-//  Created by SPSOFT on 21/02/25.
-//
 
 import UIKit
 
