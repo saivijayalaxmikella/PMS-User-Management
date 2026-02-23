@@ -1,9 +1,4 @@
-//
-//  projectRolesTableViewCell.swift
-//  PMS
-//
-//  Created by SPSOFT on 19/02/25.
-//
+
 
 import UIKit
 
